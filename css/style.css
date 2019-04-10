@@ -1,0 +1,72 @@
+.cover {
+    background: url('https://www.unesourisetmoi.info/autos/galeries/001/super-car_02.jpg') center no-repeat;
+    height: 500px;
+    background-size:cover;
+}
+
+.contenucv{
+
+margin-left: 15%;
+margin-right: 15%;
+
+
+}
+
+.container img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    top: -100px;
+    position: relative;
+    margin-left: 39%;
+    }
+.contact {
+    text-align: center; 
+    color: #2196F3;
+    margin-top: -100px;
+}
+
+.contact i {
+    padding: 3px;
+    margin: 3px;
+}
+.prenom{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.prenom p{
+    font-size: 15px;
+    color: #666;
+}
+.prenom h1:hover{
+    text-decoration: underline;
+}
+.contact i:hover{
+    color: #666;
+}
+.awesome {
+margin-left: 15%;
+padding: 15px;
+margin-bottom: 100px;
+text-align: center;
+
+}
+.project img{
+text-align: center;
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin: 20px 0 20px 0;
+}
+
+.awesome p {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: none;
+color: blue;
+}
+i:hover p {
+    display:block;
+}
+
